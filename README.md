@@ -566,7 +566,7 @@ corpo opcional
 rodapé opcional
 ```
 
-Exemplos:
+**Exemplos:**
 
 ```
 feat(users): add create user endpoint
